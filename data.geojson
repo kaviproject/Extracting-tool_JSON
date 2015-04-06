@@ -1,0 +1,80 @@
+	output={
+    "type": "FeatureCollection",
+    "features": [{
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.51688981052934, 42.37576533073424]
+        },
+        "type": "Feature",
+        "id": 1,
+        "properties": {
+            "Status": "M",
+            "Town": "Amherst",
+            "Match_type": "A",
+            "State": "MA",
+            "ARC_City": "Amherst",
+            "Side": "R",
+            "Score": 100.0,
+            "ZipCode": "01002",
+            "Ref_ID": 89668965.0,
+            "User_fld": "0",
+            "ARC_ZIP": "01002",
+            "ARC_State": "MA",
+            "ARC_Street": "111 Main Street",
+            "Match_addr": "111 MAIN ST, AMHERST, MA, 01002",
+            "Addr_type": "StreetAddress",
+            "Street_Address": "111 Main Street"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.41329591404231, 42.2715479080037]
+        },
+        "type": "Feature",
+        "id": 2,
+        "properties": {
+            "Status": "M",
+            "Town": "Belchertown",
+            "Match_type": "A",
+            "State": "MA",
+            "ARC_City": "Belchertown",
+            "Side": "L",
+            "Score": 100.0,
+            "ZipCode": "01007",
+            "Ref_ID": 89702094.0,
+            "User_fld": "0",
+            "ARC_ZIP": "01007",
+            "ARC_State": "MA",
+            "ARC_Street": "70 State Street",
+            "Match_addr": "70 STATE ST, BELCHERTOWN, MA, 01007",
+            "Addr_type": "StreetAddress",
+            "Street_Address": "70 State Street"
+        }
+    }, {
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-72.67130005300787, 42.26602806199859]
+        },
+        "type": "Feature",
+        "id": 3,
+        "properties": {
+            "Status": "M",
+            "Town": "Easthampton",
+            "Match_type": "A",
+            "State": "MA",
+            "ARC_City": "Easthampton",
+            "Side": "L",
+            "Score": 100.0,
+            "ZipCode": "01027",
+            "Ref_ID": 22283404.0,
+            "User_fld": "0",
+            "ARC_ZIP": "01027",
+            "ARC_State": "MA",
+            "ARC_Street": "32 Payson Avenue",
+            "Match_addr": "32 PAYSON AVE, EASTHAMPTON, MA, 01027",
+            "Addr_type": "StreetAddress",
+            "Street_Address": "32 Payson Avenue"
+        }
+    }
+	]
+	}

@@ -1,0 +1,64 @@
+
+<html>
+<head>
+<!--underscore library-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<!--Adding Geojson file-->
+<script src="data.geojson"></script>
+</head>
+<body>
+<script>
+var oring_feature=output.features;
+var ex_Properties=_.pluck(oring_feature,"properties");
+var ex_Geometry=_.pluck(oring_feature,"geometry");
+var ex_coordinates=_.pluck(ex_Geometry,"coordinates");
+var ex_coordinates1=_.pluck(ex_coordinates,"0");
+var ex_coordinates2=_.pluck(ex_coordinates,"1");
+var ex_town=_.pluck(ex_Properties,"Town");
+var ex_matchaddress=_.pluck(ex_Properties,"Match_addr");
+
+var prop=[];
+
+for(i=0;i<=ex_Properties.length;i++)
+{
+var Sum_prop={
+         address: ex_matchaddress[i], 
+        organization_name: ex_town[i], 
+        city: ex_town[i], 
+        web_url: "", 
+        phone_numbers: [
+          ""
+        ], 
+        contact_names: [], 
+        contact_emails: [
+          ""
+        ], 
+        youth_category: [
+          ""  
+        ], 
+        target_populations: [
+          ""
+        ], 
+        age_range: "", 
+        additional_notes: ""
+      }
+
+var geometry={
+type:"Point",
+coordinates:[ex_coordinates1[i],ex_coordinates2[i]]
+}
+prop.push({"type":"Feature","geometry":geometry,"properties":Sum_prop});
+}
+
+var tranformedData = {
+  "type": "FeatureCollection",
+  "features": prop
+};
+//converting json object to string data
+var s=JSON.stringify(tranformedData,null,4);
+console.log(s);
+debugger;
+</script>
+
+</body>
+</html>

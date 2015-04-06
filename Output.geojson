@@ -1,0 +1,6569 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.51688981052934,
+                    42.37576533073424
+                ]
+            },
+            "properties": {
+                "address": "111 MAIN ST, AMHERST, MA, 01002",
+                "organization_name": "Amherst",
+                "city": "Amherst",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.41329591404231,
+                    42.2715479080037
+                ]
+            },
+            "properties": {
+                "address": "70 STATE ST, BELCHERTOWN, MA, 01007",
+                "organization_name": "Belchertown",
+                "city": "Belchertown",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.67130005300787,
+                    42.26602806199859
+                ]
+            },
+            "properties": {
+                "address": "32 PAYSON AVE, EASTHAMPTON, MA, 01027",
+                "organization_name": "Easthampton",
+                "city": "Easthampton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.51182300955219,
+                    42.260383430496944
+                ]
+            },
+            "properties": {
+                "address": "259 E STATE ST, GRANBY, MA, 01033",
+                "organization_name": "Granby",
+                "city": "Granby",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.58262032080135,
+                    42.35265486781734
+                ]
+            },
+            "properties": {
+                "address": "15 EAST ST, HADLEY, MA, 01035",
+                "organization_name": "Hadley",
+                "city": "Hadley",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.70319869255084,
+                    42.37319660349196
+                ]
+            },
+            "properties": {
+                "address": "16 S MAIN ST, WILLIAMSBURG, MA, 01039",
+                "organization_name": "Williamsburg",
+                "city": "Williamsburg",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.63207751163607,
+                    42.31931200921111
+                ]
+            },
+            "properties": {
+                "address": "29 CENTER ST, NORTHAMPTON, MA, 01060",
+                "organization_name": "Northampton",
+                "city": "Northampton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.59356646149371,
+                    42.21587692476564
+                ]
+            },
+            "properties": {
+                "address": "41 BRIDGE ST, SOUTH HADLEY, MA, 01075",
+                "organization_name": "South Hadley",
+                "city": "South Hadley",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7676532575131,
+                    42.0539661019673
+                ]
+            },
+            "properties": {
+                "address": "11 DEPOT ST, SOUTHWICK, MA, 01077",
+                "organization_name": "Southwick",
+                "city": "Southwick",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.24146152762427,
+                    42.26126748221103
+                ]
+            },
+            "properties": {
+                "address": "22 NORTH ST, WARE, MA, 01082",
+                "organization_name": "Ware",
+                "city": "Ware",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.7521621677313,
+                    42.12147416587603
+                ]
+            },
+            "properties": {
+                "address": "15 WASHINGTON ST, WESTFIELD, MA, 01085",
+                "organization_name": "Westfield",
+                "city": "Westfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.25268574163255,
+                    42.448510235391936
+                ]
+            },
+            "properties": {
+                "address": "9 ALLEN ST, PITTSFIELD, MA, 01201",
+                "organization_name": "Pittsfield",
+                "city": "Pittsfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.12002910604028,
+                    42.62281205958458
+                ]
+            },
+            "properties": {
+                "address": "4 SCHOOL ST, ADAMS, MA, 01220",
+                "organization_name": "Adams",
+                "city": "Adams",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.16921251864292,
+                    42.47315706534357
+                ]
+            },
+            "properties": {
+                "address": "462 MAIN ST, DALTON, MA, 01226",
+                "organization_name": "Dalton",
+                "city": "Dalton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.42752282973912,
+                    42.191381451043284
+                ]
+            },
+            "properties": {
+                "address": "171 EGREMONT PLAIN RD, EGREMONT, MA, 01230",
+                "organization_name": "Egremont",
+                "city": "Egremont",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.36447431217964,
+                    42.1894745206931
+                ]
+            },
+            "properties": {
+                "address": "465 MAIN ST, GREAT BARRINGTON, MA, 01230",
+                "organization_name": "Great Barrington",
+                "city": "Great Barrington",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.2846101227608,
+                    42.35662283154431
+                ]
+            },
+            "properties": {
+                "address": "6 WALKER ST, LENOX, MA, 01240",
+                "organization_name": "Lenox",
+                "city": "Lenox",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.11307381196183,
+                    42.69778943386841
+                ]
+            },
+            "properties": {
+                "address": "11 SUMMER ST, NORTH ADAMS, MA, 01247",
+                "organization_name": "North Adams",
+                "city": "North Adams",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.35549819075142,
+                    42.10661321833044
+                ]
+            },
+            "properties": {
+                "address": "10 S MAIN ST, SHEFFIELD, MA, 01257",
+                "organization_name": "Sheffield",
+                "city": "Sheffield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.29135510166896,
+                    42.27584060120808
+                ]
+            },
+            "properties": {
+                "address": "50 E MAIN ST, STOCKBRIDGE, MA, 01262",
+                "organization_name": "Stockbridge",
+                "city": "Stockbridge",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.20885942535105,
+                    42.71464564896033
+                ]
+            },
+            "properties": {
+                "address": "31 NORTH ST, WILLIAMSTOWN, MA, 01267",
+                "organization_name": "Williamstown",
+                "city": "Williamstown",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.58394081766731,
+                    42.60199497145882
+                ]
+            },
+            "properties": {
+                "address": "321 HIGH ST, GREENFIELD, MA, 01301",
+                "organization_name": "Greenfield",
+                "city": "Greenfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.23206819197776,
+                    42.596363866282736
+                ]
+            },
+            "properties": {
+                "address": "280 EXCHANGE ST, ATHOL, MA, 01331",
+                "organization_name": "Athol",
+                "city": "Athol",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.48997427358437,
+                    42.58850721435908
+                ]
+            },
+            "properties": {
+                "address": "71 FRENCH KING HWY, ERVING, MA, 01344",
+                "organization_name": "Erving",
+                "city": "Erving",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.29190000415257,
+                    42.5836800482732
+                ]
+            },
+            "properties": {
+                "address": "400 E RIVER ST, ORANGE, MA, 01364",
+                "organization_name": "Orange",
+                "city": "Orange",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.18695683989772,
+                    42.673515539626734
+                ]
+            },
+            "properties": {
+                "address": "1 ATHOL RD, ROYALSTON, MA, 01368",
+                "organization_name": "Royalston",
+                "city": "Royalston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.60829643717027,
+                    42.47893741325187
+                ]
+            },
+            "properties": {
+                "address": "8 CONWAY ST, SOUTH DEERFIELD, MA, 01373",
+                "organization_name": "Deerfield",
+                "city": "Deerfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.54842067322748,
+                    42.58848714462941
+                ]
+            },
+            "properties": {
+                "address": "180 TURNPIKE RD, MONTAGUE, MA, 01376",
+                "organization_name": "Montague",
+                "city": "Montague",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.7989219197521,
+                    42.5836998873055
+                ]
+            },
+            "properties": {
+                "address": "20 ELM ST, FITCHBURG, MA, 01420",
+                "organization_name": "Fitchburg",
+                "city": "Fitchburg",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.91525886264364,
+                    42.62838279439779
+                ]
+            },
+            "properties": {
+                "address": "99 CENTRAL ST, ASHBURNHAM, MA, 01430",
+                "organization_name": "Ashburnham",
+                "city": "Ashburnham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.59134350944221,
+                    42.56390267434413
+                ]
+            },
+            "properties": {
+                "address": "54 PARK ST, AYER, MA, 01432",
+                "organization_name": "Ayer",
+                "city": "Ayer",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.99596445783958,
+                    42.574817927270686
+                ]
+            },
+            "properties": {
+                "address": "31 CITY HALL AVE, GARDNER, MA, 01440",
+                "organization_name": "Gardner",
+                "city": "Gardner",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.58085250670054,
+                    42.60920789871724
+                ]
+            },
+            "properties": {
+                "address": "99 PLEASANT ST, GROTON, MA, 01450",
+                "organization_name": "Groton",
+                "city": "Groton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.58452016386931,
+                    42.506846186015096
+                ]
+            },
+            "properties": {
+                "address": "40 AYER RD, HARVARD, MA, 01451",
+                "organization_name": "Harvard",
+                "city": "Harvard",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.76078728045036,
+                    42.527832452427184
+                ]
+            },
+            "properties": {
+                "address": "29 CHURCH ST, LEOMINSTER, MA, 01453",
+                "organization_name": "Leominster",
+                "city": "Leominster",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.48290631777185,
+                    42.553312889486634
+                ]
+            },
+            "properties": {
+                "address": "500 GREAT RD, LITTLETON, MA, 01460",
+                "organization_name": "Littleton",
+                "city": "Littleton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.06616878668622,
+                    42.55325364355119
+                ]
+            },
+            "properties": {
+                "address": "33 SOUTH RD, TEMPLETON, MA, 01468",
+                "organization_name": "Templeton",
+                "city": "Templeton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.69981962774364,
+                    42.676864390255965
+                ]
+            },
+            "properties": {
+                "address": "70 BROOKLINE ST, TOWNSEND, MA, 01469",
+                "organization_name": "Townsend",
+                "city": "Townsend",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.91180775973312,
+                    42.54400985236216
+                ]
+            },
+            "properties": {
+                "address": "7 SOUTH ST, WESTMINSTER, MA, 01473",
+                "organization_name": "Westminster",
+                "city": "Westminster",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.04924365603901,
+                    42.6818974753411
+                ]
+            },
+            "properties": {
+                "address": "15 PLEASANT ST, WINCHENDON, MA, 01475",
+                "organization_name": "Winchendon",
+                "city": "Winchendon",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.84828084689487,
+                    42.197392105561974
+                ]
+            },
+            "properties": {
+                "address": "416 OXFORD ST N, AUBURN, MA, 01501",
+                "organization_name": "Auburn",
+                "city": "Auburn",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.53431918057689,
+                    42.01712979245606
+                ]
+            },
+            "properties": {
+                "address": "15 ST PAUL ST, BLACKSTONE, MA, 01504",
+                "organization_name": "Blackstone",
+                "city": "Blackstone",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.68224560658092,
+                    42.41532331284173
+                ]
+            },
+            "properties": {
+                "address": "176 CHESTNUT ST, CLINTON, MA, 01510",
+                "organization_name": "Clinton",
+                "city": "Clinton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.69239019421477,
+                    42.2106284114886
+                ]
+            },
+            "properties": {
+                "address": "28 PROVIDENCE RD, GRAFTON, MA, 01519",
+                "organization_name": "Grafton",
+                "city": "Grafton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.87154621798655,
+                    42.353253240091306
+                ]
+            },
+            "properties": {
+                "address": "1370 MAIN ST, HOLDEN, MA, 01520",
+                "organization_name": "Holden",
+                "city": "Holden",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.90430792782549,
+                    42.24442931585605
+                ]
+            },
+            "properties": {
+                "address": "90 S MAIN ST, LEICESTER, MA, 01524",
+                "organization_name": "Leicester",
+                "city": "Leicester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.76295742908046,
+                    42.19001129965023
+                ]
+            },
+            "properties": {
+                "address": "127 ELM ST, MILLBURY, MA, 01527",
+                "organization_name": "Millbury",
+                "city": "Millbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8783710550826,
+                    42.449237393766175
+                ]
+            },
+            "properties": {
+                "address": "8 TOWN HALL DR, PRINCETON, MA, 01541",
+                "organization_name": "Princeton",
+                "city": "Princeton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.95429475135766,
+                    42.37664987396241
+                ]
+            },
+            "properties": {
+                "address": "242 MAIN ST, RUTLAND, MA, 01543",
+                "organization_name": "Rutland",
+                "city": "Rutland",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.00549566369438,
+                    42.237006295134705
+                ]
+            },
+            "properties": {
+                "address": "9 W MAIN ST, SPENCER, MA, 01562",
+                "organization_name": "Spencer",
+                "city": "Spencer",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.74741420200263,
+                    42.45569257905236
+                ]
+            },
+            "properties": {
+                "address": "135 LEOMINSTER RD, STERLING, MA, 01564",
+                "organization_name": "Sterling",
+                "city": "Sterling",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6056859992667,
+                    42.174712339817205
+                ]
+            },
+            "properties": {
+                "address": "30 SCHOOL ST, UPTON, MA, 01568",
+                "organization_name": "Upton",
+                "city": "Upton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.88061133637264,
+                    42.04995220322547
+                ]
+            },
+            "properties": {
+                "address": "357 S MAIN ST, WEBSTER, MA, 01570",
+                "organization_name": "Webster",
+                "city": "Webster",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.8949268702624,
+                    42.04599421877671
+                ]
+            },
+            "properties": {
+                "address": "71 W MAIN ST, DUDLEY, MA, 01571",
+                "organization_name": "Dudley",
+                "city": "Dudley",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.6149639985227,
+                    42.26776824436826
+                ]
+            },
+            "properties": {
+                "address": "45 W MAIN ST, WESTBOROUGH, MA, 01581",
+                "organization_name": "Westborough",
+                "city": "Westborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.78157114682662,
+                    42.366910196342545
+                ]
+            },
+            "properties": {
+                "address": "39 WORCESTER ST, WEST BOYLSTON, MA, 01583",
+                "organization_name": "West Boylston",
+                "city": "West Boylston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.79854094037631,
+                    42.271006965885064
+                ]
+            },
+            "properties": {
+                "address": "9 LINCOLN SQ, WORCESTER, MA, 01608",
+                "organization_name": "Worcester",
+                "city": "Worcester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.92080573956845,
+                    42.3050700673059
+                ]
+            },
+            "properties": {
+                "address": "576 PLEASANT ST, PAXTON, MA, 01612",
+                "organization_name": "Paxton",
+                "city": "Paxton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.50707647854827,
+                    42.48133023676402
+                ]
+            },
+            "properties": {
+                "address": "520 MASSACHUSETTS AVE, BOXBORO, MA, 01719",
+                "organization_name": "Boxborough",
+                "city": "Boxborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.44561372241684,
+                    42.48026718853476
+                ]
+            },
+            "properties": {
+                "address": "371 MAIN ST, ACTON, MA, 01720",
+                "organization_name": "Acton",
+                "city": "Acton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.46512539248961,
+                    42.26053488199891
+                ]
+            },
+            "properties": {
+                "address": "137 MAIN ST, ASHLAND, MA, 01721",
+                "organization_name": "Ashland",
+                "city": "Ashland",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28286043993829,
+                    42.4932112510065
+                ]
+            },
+            "properties": {
+                "address": "2 MUDGE WAY, BEDFORD, MA, 01730",
+                "organization_name": "Bedford",
+                "city": "Bedford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.34881648112065,
+                    42.53006399730647
+                ]
+            },
+            "properties": {
+                "address": "41 LOWELL ST, CARLISLE, MA, 01741",
+                "organization_name": "Carlisle",
+                "city": "Carlisle",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.34429820383784,
+                    42.456333468913364
+                ]
+            },
+            "properties": {
+                "address": "219 WALDEN ST, CONCORD, MA, 01742",
+                "organization_name": "Concord",
+                "city": "Concord",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.42756687081052,
+                    42.20716209286506
+                ]
+            },
+            "properties": {
+                "address": "550 WASHINGTON ST, HOLLISTON, MA, 01746",
+                "organization_name": "Holliston",
+                "city": "Holliston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.52377772050637,
+                    42.22794549211815
+                ]
+            },
+            "properties": {
+                "address": "74 MAIN ST, HOPKINTON, MA, 01748",
+                "organization_name": "Hopkinton",
+                "city": "Hopkinton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.57772979004275,
+                    42.397852894858495
+                ]
+            },
+            "properties": {
+                "address": "62 PACKARD ST, HUDSON, MA, 01749",
+                "organization_name": "Hudson",
+                "city": "Hudson",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.55130512751816,
+                    42.35733771104733
+                ]
+            },
+            "properties": {
+                "address": "355 BOLTON ST, MARLBOROUGH, MA, 01752",
+                "organization_name": "Marlborough",
+                "city": "Marlborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.46161973221936,
+                    42.43016312067258
+                ]
+            },
+            "properties": {
+                "address": "197 MAIN ST, MAYNARD, MA, 01754",
+                "organization_name": "Maynard",
+                "city": "Maynard",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.52154637025383,
+                    42.13854763966593
+                ]
+            },
+            "properties": {
+                "address": "250 MAIN ST, MILFORD, MA, 01757",
+                "organization_name": "Milford",
+                "city": "Milford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.3713602110532,
+                    42.24034054103566
+                ]
+            },
+            "properties": {
+                "address": "17 WASHINGTON ST, SHERBORN, MA, 01770",
+                "organization_name": "Sherborn",
+                "city": "Sherborn",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.52810889106885,
+                    42.3057732638435
+                ]
+            },
+            "properties": {
+                "address": "19 MAIN ST, SOUTHBOROUGH, MA, 01772",
+                "organization_name": "Southborough",
+                "city": "Southborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.32880987214591,
+                    42.413248020072196
+                ]
+            },
+            "properties": {
+                "address": "169 LINCOLN RD, LINCOLN, MA, 01773",
+                "organization_name": "Lincoln",
+                "city": "Lincoln",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.50045477303765,
+                    42.43580061742608
+                ]
+            },
+            "properties": {
+                "address": "305 GREAT RD, STOW, MA, 01775",
+                "organization_name": "Stow",
+                "city": "Stow",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.36039565735321,
+                    42.36342623185262
+                ]
+            },
+            "properties": {
+                "address": "38 COCHITUATE RD, WAYLAND, MA, 01778",
+                "organization_name": "Wayland",
+                "city": "Wayland",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.15748108754096,
+                    42.481063694235075
+                ]
+            },
+            "properties": {
+                "address": "25 HARRISON AVE, WOBURN, MA, 01801",
+                "organization_name": "Woburn",
+                "city": "Woburn",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.19287920565142,
+                    42.5049889958497
+                ]
+            },
+            "properties": {
+                "address": "45 CENTER ST, BURLINGTON, MA, 01803",
+                "organization_name": "Burlington",
+                "city": "Burlington",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.14184358573344,
+                    42.657874089917726
+                ]
+            },
+            "properties": {
+                "address": "32 N MAIN ST, ANDOVER, MA, 01810",
+                "organization_name": "Andover",
+                "city": "Andover",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.27137592599651,
+                    42.56350595778933
+                ]
+            },
+            "properties": {
+                "address": "6 GOOD ST, BILLERICA, MA, 01821",
+                "organization_name": "Billerica",
+                "city": "Billerica",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.36722382545959,
+                    42.62103753663526
+                ]
+            },
+            "properties": {
+                "address": "2 OLDE NORTH RD, CHELMSFORD, MA, 01824",
+                "organization_name": "Chelmsford",
+                "city": "Chelmsford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2898861570137,
+                    42.67244584194598
+                ]
+            },
+            "properties": {
+                "address": "110 LOON HILL RD, DRACUT, MA, 01826",
+                "organization_name": "Dracut",
+                "city": "Dracut",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07808911016495,
+                    42.77628438298437
+                ]
+            },
+            "properties": {
+                "address": "40 BAILEY BLVD, HAVERHILL, MA, 01830",
+                "organization_name": "Haverhill",
+                "city": "Haverhill",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.99253946921817,
+                    42.72185972515253
+                ]
+            },
+            "properties": {
+                "address": "47 CENTRAL ST, GEORGETOWN, MA, 01833",
+                "organization_name": "Georgetown",
+                "city": "Georgetown",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.11215091880291,
+                    42.72813824747899
+                ]
+            },
+            "properties": {
+                "address": "1475 OSGOOD ST, NORTH ANDOVER, MA, 01845",
+                "organization_name": "North Andover",
+                "city": "North Andover",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.31322724975446,
+                    42.64731706946539
+                ]
+            },
+            "properties": {
+                "address": "50 ARCAND DR, LOWELL, MA, 01852",
+                "organization_name": "Lowell",
+                "city": "Lowell",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.00062969756792,
+                    42.8341735679919
+                ]
+            },
+            "properties": {
+                "address": "16 E MAIN ST, MERRIMAC, MA, 01860",
+                "organization_name": "Merrimac",
+                "city": "Merrimac",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07699713567004,
+                    42.57442039719791
+                ]
+            },
+            "properties": {
+                "address": "150 PARK ST, NORTH READING, MA, 01864",
+                "organization_name": "North Reading",
+                "city": "North Reading",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10129756287698,
+                    42.52515970863338
+                ]
+            },
+            "properties": {
+                "address": "15 UNION ST, READING, MA, 01867",
+                "organization_name": "Reading",
+                "city": "Reading",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23614387928129,
+                    42.613129593550354
+                ]
+            },
+            "properties": {
+                "address": "918 MAIN ST, TEWKSBURY, MA, 01876",
+                "organization_name": "Tewksbury",
+                "city": "Tewksbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.420959080411,
+                    42.66809241453961
+                ]
+            },
+            "properties": {
+                "address": "20 WESTFORD RD, TYNGSBORO, MA, 01879",
+                "organization_name": "Tyngsborough",
+                "city": "Tyngsborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06974731704382,
+                    42.503724011895855
+                ]
+            },
+            "properties": {
+                "address": "1 UNION ST, WAKEFIELD, MA, 01880",
+                "organization_name": "Wakefield",
+                "city": "Wakefield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.43731951096545,
+                    42.58232487780505
+                ]
+            },
+            "properties": {
+                "address": "53 MAIN ST, WESTFORD, MA, 01886",
+                "organization_name": "Westford",
+                "city": "Westford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.17293168386196,
+                    42.55085432640593
+                ]
+            },
+            "properties": {
+                "address": "1 ADELAIDE ST, WILMINGTON, MA, 01887",
+                "organization_name": "Wilmington",
+                "city": "Wilmington",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.13564661610741,
+                    42.45294304877035
+                ]
+            },
+            "properties": {
+                "address": "30 MT VERNON ST, WINCHESTER, MA, 01890",
+                "organization_name": "Winchester",
+                "city": "Winchester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.94866394375191,
+                    42.465233825620324
+                ]
+            },
+            "properties": {
+                "address": "300 WASHINGTON ST, LYNN, MA, 01902",
+                "organization_name": "Lynn",
+                "city": "Lynn",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.00803750419058,
+                    42.46503805828915
+                ]
+            },
+            "properties": {
+                "address": "27 HAMILTON ST, SAUGUS, MA, 01906",
+                "organization_name": "Saugus",
+                "city": "Saugus",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.93389829472889,
+                    42.856187609852846
+                ]
+            },
+            "properties": {
+                "address": "19 SCHOOL ST, AMESBURY, MA, 01913",
+                "organization_name": "Amesbury",
+                "city": "Amesbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.87891023992924,
+                    42.54771684137344
+                ]
+            },
+            "properties": {
+                "address": "191 CABOT ST, BEVERLY, MA, 01915",
+                "organization_name": "Beverly",
+                "city": "Beverly",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.01274688815231,
+                    42.691457997540766
+                ]
+            },
+            "properties": {
+                "address": "285 IPSWICH RD, BOXFORD, MA, 01921",
+                "organization_name": "Boxford",
+                "city": "Boxford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.94172864849135,
+                    42.556298454926626
+                ]
+            },
+            "properties": {
+                "address": "120 ASH ST, DANVERS, MA, 01923",
+                "organization_name": "Danvers",
+                "city": "Danvers",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.66078634654045,
+                    42.61312495755726
+                ]
+            },
+            "properties": {
+                "address": "197 MAIN ST, GLOUCESTER, MA, 01930",
+                "organization_name": "Gloucester",
+                "city": "Gloucester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.83687208066551,
+                    42.678389679840436
+                ]
+            },
+            "properties": {
+                "address": "15 ELM ST, IPSWICH, MA, 01938",
+                "organization_name": "Ipswich",
+                "city": "Ipswich",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.77229664020692,
+                    42.57520192859572
+                ]
+            },
+            "properties": {
+                "address": "10 CENTRAL ST, MANCHESTER, MA, 01944",
+                "organization_name": "Manchester",
+                "city": "Manchester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.86059069342063,
+                    42.49746909865706
+                ]
+            },
+            "properties": {
+                "address": "11 GERRY ST, MARBLEHEAD, MA, 01945",
+                "organization_name": "Marblehead",
+                "city": "Marblehead",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.02083200875524,
+                    42.59863920857038
+                ]
+            },
+            "properties": {
+                "address": "65 N MAIN ST, MIDDLETON, MA, 01949",
+                "organization_name": "Middleton",
+                "city": "Middleton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.87238722183675,
+                    42.81140491705833
+                ]
+            },
+            "properties": {
+                "address": "4 GREEN ST, NEWBURYPORT, MA, 01950",
+                "organization_name": "Newburyport",
+                "city": "Newburyport",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.81772341616225,
+                    42.84085245090472
+                ]
+            },
+            "properties": {
+                "address": "24 RAILROAD AVE, SALISBURY, MA, 01952",
+                "organization_name": "Salisbury",
+                "city": "Salisbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.93936410862608,
+                    42.52032368818528
+                ]
+            },
+            "properties": {
+                "address": "6 ALLENS LN, PEABODY, MA, 01960",
+                "organization_name": "Peabody",
+                "city": "Peabody",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.89646847166983,
+                    42.516822489301624
+                ]
+            },
+            "properties": {
+                "address": "95 MARGIN ST, SALEM, MA, 01970",
+                "organization_name": "Salem",
+                "city": "Salem",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.94528635456157,
+                    42.63013862448919
+                ]
+            },
+            "properties": {
+                "address": "210 BOSTON ST, TOPSFIELD, MA, 01983",
+                "organization_name": "Topsfield",
+                "city": "Topsfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.88721029866433,
+                    42.60445724061977
+                ]
+            },
+            "properties": {
+                "address": "140 MAIN ST, WENHAM, MA, 01984",
+                "organization_name": "Wenham",
+                "city": "Wenham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.98810425634449,
+                    42.801399359429595
+                ]
+            },
+            "properties": {
+                "address": "401 MAIN ST, WEST NEWBURY, MA, 01985",
+                "organization_name": "West Newbury",
+                "city": "West Newbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.13419346749258,
+                    42.174882516776194
+                ]
+            },
+            "properties": {
+                "address": "1492 WASHINGTON ST, CANTON, MA, 02021",
+                "organization_name": "Canton",
+                "city": "Canton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.79850845622133,
+                    42.240590585815134
+                ]
+            },
+            "properties": {
+                "address": "62 ELM ST, COHASSET, MA, 02025",
+                "organization_name": "Cohasset",
+                "city": "Cohasset",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.17402883420638,
+                    42.24826688873649
+                ]
+            },
+            "properties": {
+                "address": "600 HIGH ST, DEDHAM, MA, 02026",
+                "organization_name": "Dedham",
+                "city": "Dedham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2795831331966,
+                    42.24357177236926
+                ]
+            },
+            "properties": {
+                "address": "3 WALPOLE ST, DOVER, MA, 02030",
+                "organization_name": "Dover",
+                "city": "Dover",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.25800256381034,
+                    42.07490456393046
+                ]
+            },
+            "properties": {
+                "address": "8 CHESTNUT ST, FOXBOROUGH, MA, 02035",
+                "organization_name": "Foxborough",
+                "city": "Foxborough",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.2854973587451,
+                    42.07593966761117
+                ]
+            },
+            "properties": {
+                "address": "136 WASHINGTON ST, FOXBOROUGH, MA, 02035",
+                "organization_name": "Norfolk",
+                "city": "Norfolk",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.41011424302788,
+                    42.094727327705776
+                ]
+            },
+            "properties": {
+                "address": "911 PANTHER WAY, FRANKLIN, MA, 02038",
+                "organization_name": "Franklin",
+                "city": "Franklin",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.88684530183052,
+                    42.231651819536665
+                ]
+            },
+            "properties": {
+                "address": "212 CENTRAL ST, HINGHAM, MA, 02043",
+                "organization_name": "Hingham",
+                "city": "Hingham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.84642490781347,
+                    42.26367451340374
+                ]
+            },
+            "properties": {
+                "address": "1 SCHOOL ST, HULL, MA, 02045",
+                "organization_name": "Hull",
+                "city": "Hull",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69414219176403,
+                    42.09311290232643
+                ]
+            },
+            "properties": {
+                "address": "1639 OCEAN ST, MARSHFIELD, MA, 02050",
+                "organization_name": "Marshfield",
+                "city": "Marshfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.30942391696365,
+                    42.19127901929542
+                ]
+            },
+            "properties": {
+                "address": "110 NORTH ST, MEDFIELD, MA, 02052",
+                "organization_name": "Medfield",
+                "city": "Medfield",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.42478198281405,
+                    42.14037916175353
+                ]
+            },
+            "properties": {
+                "address": "315 VILLAGE ST, MEDWAY, MA, 02053",
+                "organization_name": "Medway",
+                "city": "Medway",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.7921863617375,
+                    42.1590461063499
+                ]
+            },
+            "properties": {
+                "address": "40 RIVER ST, NORWELL, MA, 02061",
+                "organization_name": "Norwell",
+                "city": "Norwell",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.19517059826488,
+                    42.192201294232156
+                ]
+            },
+            "properties": {
+                "address": "137 NAHATAN ST, NORWOOD, MA, 02062",
+                "organization_name": "Norwood",
+                "city": "Norwood",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.77113091744035,
+                    42.199043212523
+                ]
+            },
+            "properties": {
+                "address": "604 CHIEF JUSTICE CUSHING WAY, SCITUATE, MA, 02066",
+                "organization_name": "Scituate",
+                "city": "Scituate",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.18728503784918,
+                    42.11353207930969
+                ]
+            },
+            "properties": {
+                "address": "213 S MAIN ST, SHARON, MA, 02067",
+                "organization_name": "Sharon",
+                "city": "Sharon",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10392867955208,
+                    42.125265587802666
+                ]
+            },
+            "properties": {
+                "address": "26 ROSE ST, STOUGHTON, MA, 02072",
+                "organization_name": "Stoughton",
+                "city": "Stoughton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.25307476972424,
+                    42.14566515464692
+                ]
+            },
+            "properties": {
+                "address": "972 MAIN ST, WALPOLE, MA, 02081",
+                "organization_name": "Walpole",
+                "city": "Walpole",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.22149484523355,
+                    42.228006966427905
+                ]
+            },
+            "properties": {
+                "address": "590 HIGH ST, WESTWOOD, MA, 02090",
+                "organization_name": "Westwood",
+                "city": "Westwood",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.32988117543675,
+                    42.065168283354346
+                ]
+            },
+            "properties": {
+                "address": "121 SOUTH ST, WRENTHAM, MA, 02093",
+                "organization_name": "Wrentham",
+                "city": "Wrentham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06933523947266,
+                    42.33946908996958
+                ]
+            },
+            "properties": {
+                "address": "650 HARRISON AVE, BOSTON, MA, 02118",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08545365568152,
+                    42.328661985269186
+                ]
+            },
+            "properties": {
+                "address": "2400 WASHINGTON ST, ROXBURY, MA, 02119",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05911677963616,
+                    42.29776407650768
+                ]
+            },
+            "properties": {
+                "address": "40 GIBSON ST, DORCHESTER, MA, 02122",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09143845250601,
+                    42.28475283841821
+                ]
+            },
+            "properties": {
+                "address": "1165 BLUE HILL AVE, DORCHESTER, MA, 02124",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.05492537139104,
+                    42.341371044226506
+                ]
+            },
+            "properties": {
+                "address": "101 W BROADWAY, SOUTH BOSTON, MA, 02127",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.03891102328532,
+                    42.37109882390163
+                ]
+            },
+            "properties": {
+                "address": "69 PARIS ST, EAST BOSTON, MA, 02128",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10453323005335,
+                    42.30956496585095
+                ]
+            },
+            "properties": {
+                "address": "3345 WASHINGTON ST, JAMAICA PLAIN, MA, 02130",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.14856775077475,
+                    42.28708672983211
+                ]
+            },
+            "properties": {
+                "address": "1708 CENTRE ST, WEST ROXBURY, MA, 02132",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.15117307973244,
+                    42.34903622299738
+                ]
+            },
+            "properties": {
+                "address": "301 WASHINGTON ST, BRIGHTON, MA, 02135",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.12402206566588,
+                    42.25643204290492
+                ]
+            },
+            "properties": {
+                "address": "1249 HYDE PARK AVE, HYDE PARK, MA, 02136",
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08588575407767,
+                    42.36724572857889
+                ]
+            },
+            "properties": {
+                "address": "125 6TH ST, CAMBRIDGE, MA, 02142",
+                "organization_name": "Cambridge",
+                "city": "Cambridge",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09244004052339,
+                    42.379411904561735
+                ]
+            },
+            "properties": {
+                "address": "220 WASHINGTON ST, SOMERVILLE, MA, 02143",
+                "organization_name": "Somerville",
+                "city": "Somerville",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07342409878571,
+                    42.42726509972493
+                ]
+            },
+            "properties": {
+                "address": "200 PLEASANT ST, MALDEN, MA, 02148",
+                "organization_name": "Malden",
+                "city": "Malden",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.04514985775764,
+                    42.412597280678455
+                ]
+            },
+            "properties": {
+                "address": "45 ELM ST, EVERETT, MA, 02149",
+                "organization_name": "Everett",
+                "city": "Everett",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.03996957058419,
+                    42.38916040597594
+                ]
+            },
+            "properties": {
+                "address": "19 PARK ST, CHELSEA, MA, 02150",
+                "organization_name": "Chelsea",
+                "city": "Chelsea",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.00077848002434,
+                    42.40278671664437
+                ]
+            },
+            "properties": {
+                "address": "400 REVERE BEACH PKY, REVERE, MA, 02151",
+                "organization_name": "Revere",
+                "city": "Revere",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.98421323570551,
+                    42.37668439773767
+                ]
+            },
+            "properties": {
+                "address": "3 METCALF SQ, WINTHROP, MA, 02152",
+                "organization_name": "Winthrop",
+                "city": "Winthrop",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.11046523119903,
+                    42.41590266972635
+                ]
+            },
+            "properties": {
+                "address": "100 MAIN ST, MEDFORD, MA, 02155",
+                "organization_name": "Medford",
+                "city": "Medford",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.99639550367567,
+                    42.255750180160824
+                ]
+            },
+            "properties": {
+                "address": "1 SEA ST, QUINCY, MA, 02169",
+                "organization_name": "Quincy",
+                "city": "Quincy",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06656206725101,
+                    42.45491541230592
+                ]
+            },
+            "properties": {
+                "address": "56 W FOSTER ST, MELROSE, MA, 02176",
+                "organization_name": "Melrose",
+                "city": "Melrose",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.09855910455003,
+                    42.481206850351036
+                ]
+            },
+            "properties": {
+                "address": "47 CENTRAL ST, STONEHAM, MA, 02180",
+                "organization_name": "Stoneham",
+                "city": "Stoneham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.99427684416196,
+                    42.211158392088805
+                ]
+            },
+            "properties": {
+                "address": "282 UNION ST, BRAINTREE, MA, 02184",
+                "organization_name": "Braintree",
+                "city": "Braintree",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.07989248059188,
+                    42.25182805417536
+                ]
+            },
+            "properties": {
+                "address": "40 HIGHLAND ST, MILTON, MA, 02186",
+                "organization_name": "Milton",
+                "city": "Milton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95074038944799,
+                    42.20066584086234
+                ]
+            },
+            "properties": {
+                "address": "140 WINTER ST, WEYMOUTH, MA, 02188",
+                "organization_name": "Weymouth",
+                "city": "Weymouth",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.04018150197858,
+                    42.004327876626895
+                ]
+            },
+            "properties": {
+                "address": "220 PLEASANT ST, WEST BRIDGEWATER, MA, 02379",
+                "organization_name": "Bridgewater",
+                "city": "Bridgewater",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.76711897754215,
+                    41.886363533578816
+                ]
+            },
+            "properties": {
+                "address": "112 MAIN ST, CARVER, MA, 02330",
+                "organization_name": "Carver",
+                "city": "Carver",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.69911461293479,
+                    42.033789998571216
+                ]
+            },
+            "properties": {
+                "address": "155 MAYFLOWER ST, DUXBURY, MA, 02332",
+                "organization_name": "Duxbury",
+                "city": "Duxbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95570737701591,
+                    42.029700550000165
+                ]
+            },
+            "properties": {
+                "address": "153 CENTRAL ST, EAST BRIDGEWATER, MA, 02333",
+                "organization_name": "East Bridgewater",
+                "city": "East Bridgewater",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8644264573848,
+                    41.991459388186755
+                ]
+            },
+            "properties": {
+                "address": "540 PLYMOUTH ST, HALIFAX, MA, 02338",
+                "organization_name": "Halifax",
+                "city": "Halifax",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8242513712965,
+                    42.11439466364852
+                ]
+            },
+            "properties": {
+                "address": "129 ROCKLAND ST, HANOVER, MA, 02339",
+                "organization_name": "Hanover",
+                "city": "Hanover",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.86959813484582,
+                    42.040128725960415
+                ]
+            },
+            "properties": {
+                "address": "775 MAIN ST, HANSON, MA, 02341",
+                "organization_name": "Hanson",
+                "city": "Hanson",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.00876151715933,
+                    42.14590684225308
+                ]
+            },
+            "properties": {
+                "address": "300 S FRANKLIN ST, HOLBROOK, MA, 02343",
+                "organization_name": "Holbrook",
+                "city": "Holbrook",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.95003734558618,
+                    41.85197616079052
+                ]
+            },
+            "properties": {
+                "address": "296 BEDFORD ST, LAKEVILLE, MA, 02347",
+                "organization_name": "Lakeville",
+                "city": "Lakeville",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.93925493931499,
+                    42.115151747603036
+                ]
+            },
+            "properties": {
+                "address": "215 CENTRAL ST, ABINGTON, MA, 02351",
+                "organization_name": "Abington",
+                "city": "Abington",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.10630256254521,
+                    42.05671133234593
+                ]
+            },
+            "properties": {
+                "address": "46 LOTHROP ST, EASTON, MA, 02356",
+                "organization_name": "Easton",
+                "city": "Easton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.80830800501028,
+                    42.07261765376499
+                ]
+            },
+            "properties": {
+                "address": "80 CENTER ST, PEMBROKE, MA, 02359",
+                "organization_name": "Pembroke",
+                "city": "Pembroke",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.65768065477428,
+                    41.93330675609929
+                ]
+            },
+            "properties": {
+                "address": "20 LONG POND RD, PLYMOUTH, MA, 02360",
+                "organization_name": "Plymouth",
+                "city": "Plymouth",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.816998608609,
+                    41.95774775200924
+                ]
+            },
+            "properties": {
+                "address": "5 PALMER RD, PLYMPTON, MA, 02367",
+                "organization_name": "Plympton",
+                "city": "Plympton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.04219707467615,
+                    42.161090925524
+                ]
+            },
+            "properties": {
+                "address": "41 S MAIN ST, RANDOLPH, MA, 02368",
+                "organization_name": "Randolph",
+                "city": "Randolph",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.90336015554112,
+                    42.12416344522061
+                ]
+            },
+            "properties": {
+                "address": "490 MARKET ST, ROCKLAND, MA, 02370",
+                "organization_name": "Rockland",
+                "city": "Rockland",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.01337704157567,
+                    42.0183719755839
+                ]
+            },
+            "properties": {
+                "address": "99 W CENTER ST, WEST BRIDGEWATER, MA, 02379",
+                "organization_name": "West Bridgewater",
+                "city": "West Bridgewater",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.933460310657,
+                    42.08493368148152
+                ]
+            },
+            "properties": {
+                "address": "20 ESSEX ST, WHITMAN, MA, 02382",
+                "organization_name": "Whitman",
+                "city": "Whitman",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.12137059620459,
+                    42.33392309952985
+                ]
+            },
+            "properties": {
+                "address": "350 WASHINGTON ST, BROOKLINE, MA, 02445",
+                "organization_name": "Brookline",
+                "city": "Brookline",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23636589961092,
+                    42.38155143697845
+                ]
+            },
+            "properties": {
+                "address": "155 LEXINGTON ST, WALTHAM, MA, 02452",
+                "organization_name": "Waltham",
+                "city": "Waltham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.1517957325627,
+                    42.41911221778278
+                ]
+            },
+            "properties": {
+                "address": "112 MYSTIC ST, ARLINGTON, MA, 02474",
+                "organization_name": "Arlington",
+                "city": "Arlington",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.178435244396,
+                    42.3969871807222
+                ]
+            },
+            "properties": {
+                "address": "460 CONCORD AVE, BELMONT, MA, 02478",
+                "organization_name": "Belmont",
+                "city": "Belmont",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28818577036317,
+                    42.29987722134161
+                ]
+            },
+            "properties": {
+                "address": "485 WASHINGTON ST, WELLESLEY, MA, 02482",
+                "organization_name": "Wellesley",
+                "city": "Wellesley",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.23675989414264,
+                    42.278113306289086
+                ]
+            },
+            "properties": {
+                "address": "99 SCHOOL ST, NEEDHAM, MA, 02492",
+                "organization_name": "Needham",
+                "city": "Needham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.27788131903613,
+                    42.367313701269225
+                ]
+            },
+            "properties": {
+                "address": "180 BOSTON POST RD, WESTON, MA, 02493",
+                "organization_name": "Weston",
+                "city": "Weston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60903517075667,
+                    41.74733879091366
+                ]
+            },
+            "properties": {
+                "address": "175 MAIN ST, BOURNE, MA, 02532",
+                "organization_name": "Bourne",
+                "city": "Bourne",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.51935392400674,
+                    41.38736309995622
+                ]
+            },
+            "properties": {
+                "address": "72 PEASES POINT WAY S, EDGARTOWN, MA, 02539",
+                "organization_name": "Edgartown",
+                "city": "Edgartown",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60259295679508,
+                    41.55369427500624
+                ]
+            },
+            "properties": {
+                "address": "750 MAIN ST, FALMOUTH, MA, 02540",
+                "organization_name": "Falmouth",
+                "city": "Falmouth",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.55629262397875,
+                    41.4578256509248
+                ]
+            },
+            "properties": {
+                "address": "2 OAK BLUFFS AVE, OAK BLUFFS, MA, 02568",
+                "organization_name": "Oak Bluffs",
+                "city": "Oak Bluffs",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.49586073036852,
+                    41.761620128871726
+                ]
+            },
+            "properties": {
+                "address": "117 RT 6A, SANDWICH, MA, 02563",
+                "organization_name": "Sandwich",
+                "city": "Sandwich",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.60138449239983,
+                    41.454919114562784
+                ]
+            },
+            "properties": {
+                "address": "32 WATER ST, TISBURY, MA, 02568",
+                "organization_name": "Tisbury",
+                "city": "Tisbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.73354051090809,
+                    41.77015321551222
+                ]
+            },
+            "properties": {
+                "address": "2515 CRANBERRY HWY, WAREHAM, MA, 02571",
+                "organization_name": "Wareham",
+                "city": "Wareham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.08095011725298,
+                    41.74439007219843
+                ]
+            },
+            "properties": {
+                "address": "631 HARWICH RD, BREWSTER, MA, 02631",
+                "organization_name": "Brewster",
+                "city": "Brewster",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9910957333337,
+                    41.69052672354039
+                ]
+            },
+            "properties": {
+                "address": "249 GEORGE RYDER RD, CHATHAM, MA, 02633",
+                "organization_name": "Chatham",
+                "city": "Chatham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.9737584509321,
+                    41.83112060379713
+                ]
+            },
+            "properties": {
+                "address": "2550 STATE HWY, EASTHAM, MA, 02642",
+                "organization_name": "Eastham",
+                "city": "Eastham",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.08177851237116,
+                    41.68126995193172
+                ]
+            },
+            "properties": {
+                "address": "183 SISSON RD, HARWICH, MA, 02645",
+                "organization_name": "Harwich",
+                "city": "Harwich",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.49494775955914,
+                    41.61829739092402
+                ]
+            },
+            "properties": {
+                "address": "19 FRANK E HICKS DR, MASHPEE, MA, 02649",
+                "organization_name": "Mashpee",
+                "city": "Mashpee",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -69.98736005003778,
+                    41.78157802810466
+                ]
+            },
+            "properties": {
+                "address": "90 S ORLEANS RD, ORLEANS, MA, 02653",
+                "organization_name": "Orleans",
+                "city": "Orleans",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.19342154830146,
+                    42.048890114932014
+                ]
+            },
+            "properties": {
+                "address": "26 SHANK PAINTER RD, PROVINCETOWN, MA, 02657",
+                "organization_name": "Provincetown",
+                "city": "Provincetown",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.15535788331735,
+                    41.70330238744659
+                ]
+            },
+            "properties": {
+                "address": "90 BOB CROWELL RD, SOUTH DENNIS, MA, 02660",
+                "organization_name": "Dennis",
+                "city": "Dennis",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.0246397095028,
+                    41.9434063875027
+                ]
+            },
+            "properties": {
+                "address": "36 GROSS HILL RD, WELLFLEET, MA, 02667",
+                "organization_name": "Wellfleet",
+                "city": "Wellfleet",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.28149349659147,
+                    41.94389661074308
+                ]
+            },
+            "properties": {
+                "address": "12 UNION ST, ATTLEBORO, MA, 02703",
+                "organization_name": "Attleboro",
+                "city": "Attleboro",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.14370390089807,
+                    41.69730243988654
+                ]
+            },
+            "properties": {
+                "address": "685 PLEASANT ST, FALL RIVER, MA, 02723",
+                "organization_name": "Fall River",
+                "city": "Fall River",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.77111991703066,
+                    41.706052300778076
+                ]
+            },
+            "properties": {
+                "address": "550 MILL ST, MARION, MA, 02738",
+                "organization_name": "Marion",
+                "city": "Marion",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.8057883567978,
+                    41.66377236410213
+                ]
+            },
+            "properties": {
+                "address": "64 COUNTY RD, MATTAPOISETT, MA, 02739",
+                "organization_name": "Mattapoisett",
+                "city": "Mattapoisett",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.81818708627867,
+                    41.72972699986704
+                ]
+            },
+            "properties": {
+                "address": "29 DEXTER LN, ROCHESTER, MA, 02770",
+                "organization_name": "Rochester",
+                "city": "Rochester",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.08871750679619,
+                    41.90079942085213
+                ]
+            },
+            "properties": {
+                "address": "23 SUMMER ST, TAUNTON, MA, 02780",
+                "organization_name": "Taunton",
+                "city": "Taunton",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -73.24895529945918,
+                    42.30489877573847
+                ]
+            },
+            "properties": {
+                "address": "32 MAIN ST, LEE, MA, 01238",
+                "organization_name": "Lee",
+                "city": "Lee",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.42131947247366,
+                    42.36082766132397
+                ]
+            },
+            "properties": {
+                "address": "415 BOSTON POST RD, SUDBURY, MA, 01776",
+                "organization_name": "Sudbury",
+                "city": "Sudbury",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.6249339452632,
+                    42.65187010422692
+                ]
+            },
+            "properties": {
+                "address": "A",
+                "organization_name": "Rockport",
+                "city": "Rockport",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.06033156190725,
+                    42.361822493782014
+                ]
+            },
+            "properties": {
+                "organization_name": "Boston",
+                "city": "Boston",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.31241784261923,
+                    41.675272671832595
+                ]
+            },
+            "properties": {
+                "organization_name": "Barnstable",
+                "city": "Barnstable",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.0742313476651,
+                    42.022205991027185
+                ]
+            },
+            "properties": {
+                "organization_name": "Truro",
+                "city": "Truro",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -70.2448293626292,
+                    41.668770289249764
+                ]
+            },
+            "properties": {
+                "organization_name": "Yarmouth",
+                "city": "Yarmouth",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.24740201465616,
+                    41.75715279881455
+                ]
+            },
+            "properties": {
+                "organization_name": "Swansea",
+                "city": "Swansea",
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    null,
+                    null
+                ]
+            },
+            "properties": {
+                "web_url": "",
+                "phone_numbers": [
+                    ""
+                ],
+                "contact_names": [],
+                "contact_emails": [
+                    ""
+                ],
+                "youth_category": [
+                    ""
+                ],
+                "target_populations": [
+                    ""
+                ],
+                "age_range": "",
+                "additional_notes": ""
+            }
+        }
+    ]
+}
